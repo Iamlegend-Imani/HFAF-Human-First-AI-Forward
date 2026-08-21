@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use Human First, AI Forward in research, teaching, or practice, please cite the project."
+title: "Human First, AI Forward: Frameworks for Human Agency in an Age of Intelligent Technology"
+type: software
+authors:
+  - family-names: "Kirika"
+    given-names: "Imani-Faith"
+repository-code: "https://github.com/Iamlegend-Imani/HFAF-Human-First-AI-Forward"
+url: "https://github.com/Iamlegend-Imani/HFAF-Human-First-AI-Forward"
+abstract: "A living human-centered framework for preserving agency, thought, creativity, responsibility, and human capacity while working with artificial intelligence."
+keywords:
+  - human-centered AI
+  - human agency
+  - AI literacy
+  - higher education
+  - human-AI collaboration
+  - responsible AI
+license: "All rights reserved"
