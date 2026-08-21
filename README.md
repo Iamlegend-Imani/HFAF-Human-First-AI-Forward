@@ -6,7 +6,11 @@
 
 Human First, AI Forward is a living, human-centered framework for working with artificial intelligence without surrendering judgment, authorship, creativity, accountability, or the capacities that make us human.
 
-The project begins from a simple premise: AI can radically shorten the distance between intention and execution. The challenge is ensuring that greater speed and capability do not come at the cost of human thought.
+## Public site
+
+**Live website:** https://iamlegend-imani.github.io/HFAF-Human-First-AI-Forward/
+
+The public website is served from `main` → `/docs`. The Markdown files in the repository remain the canonical source materials for versioning, research transparency, and future releases. See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the repository structure.
 
 ## The central question
 
@@ -63,6 +67,10 @@ The objective is not unrestricted AI use. It is intentional use aligned with the
 - [`05-case-studies/`](05-case-studies/) — implementation evidence as it emerges
 - [`06-tools/`](06-tools/) — practical canvases and reflection tools
 - [`07-essays/`](07-essays/) — public-facing long-form writing
+- [`docs/`](docs/) — GitHub Pages website only
+- [`FACULTY-PACK.md`](FACULTY-PACK.md) — educator resource index
+- [`PUBLICATION-ROADMAP.md`](PUBLICATION-ROADMAP.md) — publication and DOI pathway
+- [`ARCHITECTURE.md`](ARCHITECTURE.md) — source/public-site separation rules
 
 ## Key propositions
 
@@ -76,4 +84,4 @@ This is a living framework. It will evolve through research, implementation, cri
 
 ## Intellectual property
 
-Unless an explicit license is added, standard copyright applies. Citation metadata and a formal rights statement will be developed for the first stable release.
+Unless an explicit license is added, standard copyright applies. Citation metadata is provided in [`CITATION.cff`](CITATION.cff). A final rights and licensing strategy will be confirmed before the first stable release.
