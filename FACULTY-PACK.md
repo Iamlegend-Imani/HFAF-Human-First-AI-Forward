@@ -4,6 +4,14 @@
 
 This page collects the core materials intended for educators, faculty-development leaders, instructional designers, academic administrators, and departments exploring responsible AI adoption.
 
+## Public website
+
+Use the public-facing HFAF site for clean, nontechnical reading:
+
+https://iamlegend-imani.github.io/HFAF-Human-First-AI-Forward/
+
+The Markdown files below remain the canonical source files for versioning and future releases.
+
 ## Start here
 
 ### 1. The Human Remains
@@ -27,7 +35,7 @@ Move beyond a binary allowed/prohibited AI policy: [`01-framework/human-ai-use-s
 Use the higher-education implementation guide: [`02-higher-education/faculty-guide.md`](02-higher-education/faculty-guide.md)
 
 ### 5. What Should Remain Human? Workshop
-Run the 60–90 minute faculty workshop: [`03-workshop/what-should-remain-human-workshop.md`](03-workshop/what-should-remain-human-workshop.md)
+Run the 60–90 minute faculty workshop: [`03-workshop/what-should-remain-human.md`](03-workshop/what-should-remain-human.md)
 
 ### 6. Human–AI Course Design Canvas
 Redesign one assignment or course activity: [`06-tools/human-ai-course-design-canvas.md`](06-tools/human-ai-course-design-canvas.md)
