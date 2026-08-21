@@ -8,55 +8,35 @@ This roadmap moves HFAF from a living GitHub framework to an accessible public r
 - [x] Establish core thesis and conceptual architecture
 - [x] Create research tracks and research questions
 - [x] Add initial institutional research bibliography
+- [x] Add `CITATION.cff` project metadata
 
 ### Next
 - [ ] Expand bibliography with peer-reviewed research
 - [ ] Create annotated literature review
 - [ ] Separate empirical findings from HFAF propositions throughout framework files
 - [ ] Add inline citations to claims requiring external support
-- [ ] Add a `CITATION.cff` file with project metadata
 
 ## Phase 2 — Public website
 
 Goal: create a nontechnical entry point for faculty, researchers, students, practitioners, and the general public.
 
-### Proposed navigation
+### Complete
+- [x] Build static public website in `/docs`
+- [x] Configure GitHub Pages from `main` → `/docs`
+- [x] Create dedicated HTML pages for manifesto, framework, faculty guide, workshop, course design canvas, research, roadmap, AI-use spectrum, and Essay 01
+- [x] Remove public links to raw Markdown files
+- [x] Add shared styles and `.nojekyll`
+- [x] Document repository architecture
 
-**Home** — Human First, AI Forward
+### Live site
 
-**The Human Remains** — manifesto
+https://iamlegend-imani.github.io/HFAF-Human-First-AI-Forward/
 
-**Framework** — Human–AI Agency Loop + core principles
-
-**Higher Education** — Implementation 01
-
-**Tools** — practical canvases and resources
-
-**Research** — evidence base and bibliography
-
-**Essays** — public writing
-
-**About** — project purpose, authorship, status, and citation
-
-### Homepage hierarchy
-
-1. Hero: **Human First. AI Forward.**
-2. Thesis: *Technology should increase human capacity without decreasing human agency.*
-3. The problem: AI compresses the distance between intention and execution, but capability without agency creates new risks.
-4. Human–AI Agency Loop
-5. Systems view: Technology → Behavior → Cognition → Health → Capacity → Creativity → Contribution
-6. Higher Education / Implementation 01
-7. Featured tools
-8. Featured essay: The Human Remains
-9. Research foundation
-10. Invitation to use, test, critique, and contribute evidence
-
-### Deployment
-
-- [ ] Build static website in this repository
-- [ ] Enable GitHub Pages
-- [ ] Test desktop and mobile experience
-- [ ] Add live site URL to repository metadata
+### Next
+- [ ] Continue mobile and cross-browser testing
+- [ ] Add downloadable faculty materials
+- [ ] Add About / citation / version information to the public site
+- [ ] Add DOI information after the first stable release
 
 ## Phase 3 — First public essay
 
@@ -69,7 +49,7 @@ Goal: create a nontechnical entry point for faculty, researchers, students, prac
 Canonical source: `07-essays/the-human-remains.md`
 
 Publication targets:
-- [ ] GitHub Pages
+- [x] HFAF website
 - [ ] Medium
 - [ ] LinkedIn adaptation
 
@@ -125,8 +105,7 @@ Before v1.0:
 - [ ] Complete research review
 - [ ] Verify citations
 - [ ] Complete downloadable materials
-- [ ] Add authorship metadata
-- [ ] Add `CITATION.cff`
+- [ ] Confirm authorship metadata
 - [ ] Decide rights/license strategy
 - [ ] Add versioning policy
 - [ ] Add changelog
