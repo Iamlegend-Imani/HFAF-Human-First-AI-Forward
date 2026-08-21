@@ -6,7 +6,7 @@ authors:
   - family-names: "Kirika"
     given-names: "Imani-Faith"
 repository-code: "https://github.com/Iamlegend-Imani/HFAF-Human-First-AI-Forward"
-url: "https://github.com/Iamlegend-Imani/HFAF-Human-First-AI-Forward"
+url: "https://iamlegend-imani.github.io/HFAF-Human-First-AI-Forward/"
 abstract: "A living human-centered framework for preserving agency, thought, creativity, responsibility, and human capacity while working with artificial intelligence."
 keywords:
   - human-centered AI
@@ -15,4 +15,3 @@ keywords:
   - higher education
   - human-AI collaboration
   - responsible AI
-license: "All rights reserved"
